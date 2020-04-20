@@ -1,26 +1,9 @@
-#国内#
-CCTV1,tvbus://3sE7V4EfT4ABijrGMpfjy9JFa1cAbCrMaQtGfLRmpvJNrgbkrZ#tvbus://3sE7V4EfT4ABijrGMpfjy9JFa1cAbCrMaQtGfLRmpvJNrgbkrZ
-CCTV2,tvbus://3asn7Up7Zn4SaZnSgn22Nm6wF9whAQLoDR3GwfJ4YK7i26YKc8
-CCTV3,tvbus://3jaRBsZVr66mGM5L3pbWVkuTHdmbGeETR25dTJEcZeTACh7UMs
-CCTV4,p8p://0198.02686.cc:16871/5d1a699c0003f57011bd7f840080582d.ts
-CCTV5,p8p://0198.02686.cc:16871/5d1a699e00076fa011bd88384bd1ad68.ts#p8p://0198.02686.cc:16871/5d1a699e00076fa011bd88384bd1ad68.ts
-CCTV5+,p8p://0198.02686.cc:16871/5d1a699d000b786b11bd85591a37419d.ts#p8p://0198.02686.cc:16871/5d1a699d000b786b11bd85591a37419d.ts
-CCTV6,tvbus://3CoPxRmmTMCs1MjizH59JSPAaCBUDyhKLNZruwkhcWJi4Pbe1W#tvbus://3CoPxRmmTMCs1MjizH59JSPAaCBUDyhKLNZruwkhcWJi4Pbe1W
-CCTV7,tvbus://3P7rrSz8eX8pvpbPwRL3tPMDQpMpK1tt9SHy7suoDjk57nnd4G
-CCTV8,tvbus://3bvffG3qZCPYyMUsjxEhMdZV9syFE12r9SE7zKANdeGJPYACis#tvbus://3bvffG3qZCPYyMUsjxEhMdZV9syFE12r9SE7zKANdeGJPYACis
-CCTV9,p8p://0198.02686.cc:16871/5d1a69a10005e2bf11bd938ba0a96775.ts
-CCTV10,p8p://0198.02686.cc:16871/5d1a69950001d55b11bd63a1a7412eff.ts
-CCTV11,p8p://0198.02686.cc:16871/5d1a6995000d2d4411bd6688405637b9.ts
-CCTV12,p8p://0198.02686.cc:16871/5d1a69960008e5c611bd69582e7284c5.ts
-CCTV13,tvbus://3aAJxxFyc2nwMQAMj7hnBXR5S2xV8nZgVYr2H6KgctUTbb1TrT
-CCTV14,p8p://0198.02686.cc:16871/5d1a699800010bf711bd6f251fac0a34.ts
-CCTV15,p8p://0198.02686.cc:16871/5d1a6998000c859211bd7215e54eb404.ts
 
 #其他#
 凤凰资讯[1920*1080],http://112.17.40.197:80/PLTV/88888888/224/3221226491/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452#http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 凤凰中文[1920*1080],http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&amp;from=30&amp;hms_devid=1452
 有线财经资讯[1920*1080],https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
-翡翠台[1024*576],http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv&amp;_res_tag_=video
+翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;FvSeid=5abd1660af1babb4&amp;Fsv_filetype=1&amp;Fsv_ctype=LIVES&amp;Fsv_cid=0&amp;Fsv_chan_hls_se_idx=188&amp;Fsv_rate_id=0&amp;Fsv_SV_PARAM1=0&amp;Fsv_ShiftEnable=0&amp;Fsv_ShiftTsp=0&amp;Provider_id=&amp;Pcontent_id=&amp;Fsv&amp;_res_tag_=video
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8
 有线新闻,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
@@ -69,5 +52,5 @@ now直播,tvbus://3JGDpXioJpH6NRBQFeUgju8mCcYQUHiFYz6GRBkkSWnbGPRABS#tvbus://3JG
 now新闻,tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB#tvbus://3iBaeeta2PhkXUTh6G9jzKNjGn98D72gUnhB8QxsqnPr9JgXuB
 无线新闻,p8p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e.ts
 RTHK31,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
-鳳凰資訊,tvbus://4Wj3KvuZsZT6uZi6hbi6Sv1WdmG1JeeybkKkcTMESvRczz4zF7
-鳳凰衛視,p8p://0198.02686.cc:16871/5d8c9f670007a9fa196ffb97ed55bbac.ts
+凤凰资讯,tvbus://4Wj3KvuZsZT6uZi6hbi6Sv1WdmG1JeeybkKkcTMESvRczz4zF7
+凤凰中文,p8p://0198.02686.cc:16871/5d8c9f670007a9fa196ffb97ed55bbac.ts
