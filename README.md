@@ -1,5 +1,7 @@
 # tv
-This is a personal project to maintain live feeds for a variety of different protocols, updated from time to time. The main focus is on Chinese television.
+This is a personal project to maintain a list of live IPTV channels.
+The list is focused on channels from mainland China, but you are welcome to build it yourself using the related projects below.
+The demo service in this list is updated from time to time, availability is not guaranteed, and please do not distribute it widely.
 
 
 IPTV 是我近几年摸爬滚打比较多的一个领域了，有一些比较高级的玩法这里整理下，今年底有可能可以分成几篇文章写出来。
